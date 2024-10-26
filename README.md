@@ -1,5 +1,5 @@
 # Multivariate-regression-model
- reviewing the Housing dataset and to create a multivariate regression model.
+Reviewing the Housing dataset and to create a multivariate regression model.
 The dataset has 546 observations and 9 variables:
 Independent Variables
 Lotsize – measured in sq meters
